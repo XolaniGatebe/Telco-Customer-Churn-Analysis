@@ -35,7 +35,7 @@ This project predicts customer churn for a telecommunications company using the 
 - Libraries: `numpy`, `pandas`, `seaborn`, `scikit-learn`, `matplotlib`
 
 ## Setup
-1. Clone the repo: `git clone [your-repo-url]`
+1. Clone the repo: `git clone [(https://github.com/XolaniGatebe/Telco-Customer-Churn-Analysis.git)]`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run `telco_customer_churn.ipynb` in Jupyter Notebook.
 
